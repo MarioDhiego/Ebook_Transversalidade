@@ -11,11 +11,18 @@ body{text-align: justify}
 
 # Metodologia da Transitividade
 
-## O Que è?
+## O Que È?
 
 A Metodologia da Transitividade é uma proposta pedagógica, de forte inspiração freiriana, que visa conduzir o estudante da percepção imediata e ingênua de sua realidade para uma compreensão estrutural e crítica. A palavra "transitividade" refere-se exatamente a este movimento de transição cognitiva e social, no qual o indivíduo deixa de ser um mero espectador das contradições a seu redor e passa a investigá-las ativamente.
 
 Seus objetivos educacionais centrais incluem romper com a educação “bancária” (aquela que apenas deposita conteúdos no aluno), integrar o currículo escolar à vida real dos educandos e formar sujeitos capazes de analisar e intervir em sua realidade.
+
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
 
 ## PrincÍpios Centrais
 

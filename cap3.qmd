@@ -1,0 +1,37 @@
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+# Etapas da Metodologia
+
+A aplicação da Metodologia da Transitividade ocorre de forma processual, estruturada em etapas lógicas que guiam os estudantes da observação à síntese crítica. Abaixo, detalhamos os nove passos essenciais para a condução do trabalho.
+
+1.  **Organização Inicial**;
+
+2.  **Diálogo com Alunos**;
+
+3.  **Diálogo com a Realidade**;
+
+4.  A **Investigação da Àrea de Estudo;**
+
+5.  **Codificação das Experiências Sociais**;
+
+6.  **Diálogos Codificados**;
+
+7.  **Redução Temática**;
+
+8.  **Desenvolvimento em Sala de Aula**;
+
+9.  **Apresentação dos Vídeos e Avaliação**;
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::

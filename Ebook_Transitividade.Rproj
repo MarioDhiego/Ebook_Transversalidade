@@ -11,3 +11,7 @@ Encoding: UTF-8
 
 RnwWeave: knitr
 LaTeX: XeLaTeX
+
+PythonType: system
+PythonVersion: 3.13.2
+PythonPath: C:/Users/usuario/AppData/Local/Programs/Python/Python313/python.exe

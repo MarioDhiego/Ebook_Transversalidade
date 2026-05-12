@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Guia Prático Para Produção de Vídeos Documentais na Escola",
+    "title": "Metodologia da Transversalidade Aplicada nas Escolas do Ensino Médio (E-book)",
     "section": "",
     "text": "Apresentação\nO presente e-book tem como propósito organizar, num formato didático e acessível, as informações teóricas e práticas sobre a aplicação da Metodologia da Transitividade no contexto do Ensino Médio. Esta produto é fruto da sistematização de práticas pedagógicas que buscam aproximar a escola da realidade dos estudantes, promovendo uma educação pautada no diálogo, na reflexão crítica e na práxis.\nA proposta aqui delineada adapta os passos descrito no projeto sobre a referida metodologia, transpondo-os para a prática pedagógica escolar: a produção de pequenos vídeos documentais que possam ser utilizados de forma educativa nas redes sociais (como Reels, TikTok e Shorts). O objetivo não é o domínio técnico de produção audiovisual ou mero entretenimento, mas visa utilizar o celular como um instrumento de investigação social e de leitura crítica do mundo.",
     "crumbs": [
@@ -10,11 +10,21 @@
     ]
   },
   {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introdução",
+    "section": "",
+    "text": "A presença onipresente dos dispositivos móveis no cotidiano juvenil impõe à escola contemporânea um desafio incontornável: superar a visão higienista que criminaliza o uso de tecnologias para assumi-las como um território de disputa de sentidos. Conforme aponta David Buckingham (2019) em seus estudos sobre Mídia-Educação, a alfabetização midiática não deve se limitar a proteger os jovens contra os riscos da tecnologia, mas deve instrumentalizá-los para a apropriação crítica e criativa de suas linguagens. É nesse contexto que o uso do audiovisual no Ensino Médio deixa de ser encarado como mero entretenimento para assumir o papel de uma autêntica “lente investigativa”.\nA força motriz para essa transformação pedagógica ancora-se na Metodologia da Transitividade. Em sua obra clássica Educação como Prática da Liberdade (1967), Paulo Freire define o alcance da “consciência transitiva” como o momento fundamental em que o sujeito rompe com a apreensão mágica ou ingênua de sua realidade. Ao desenvolver essa transitividade, o indivíduo passa a investigar causalidades, reconhecer contradições estruturais e intervir no mundo. Transpor essa teoria para a prática escolar é a via mais eficaz para combater a “educação bancária”, colocando o estudante não como depositário de conteúdos, mas como investigador ativo do seu território.\nNo ecossistema digital de hoje, essa investigação sociológica exige o engajamento com os “multiletramentos”. A pesquisadora Roxane Rojo (2012) defende que o currículo escolar precisa urgentemente dialogar com os textos multissemióticos da cultura digital. Ao utilizar a câmera do celular para realizar a codificação de problemas sociais cotidianos, o estudante materializa a sua experiência vivida em recortes audiovisuais concretos.\nContudo, o verdadeiro salto epistemológico não está na gravação em si, mas na etapa freiriana de descodificação. Em sintonia com as bases da Educomunicação propostas por Joan Ferrés (2014) que propõe a interação indissociável entre emoção, imagem e reflexão crítica, o material gravado bruto volta para a sala de aula para ser tensionado coletivamente. O rigoroso debate analítico sobre o que as imagens revelam e o que elas ocultam transforma a edição do vídeo em um profundo exercício de pesquisa social.\nO que se propõe aqui, portanto, é a práxis. Ao utilizar a linguagem ágil de vídeos curtos, o objetivo não é a viralização algorítmica, mas o desenvolvimento da autonomia discursiva do educando. A produção documental no ambiente escolar converte-se, fundamentalmente, em uma estratégia de letramento crítico e intervenção cultural na sociedade contemporânea.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
     "objectID": "cap1.html",
     "href": "cap1.html",
     "title": "2  Metodologia da Transitividade",
     "section": "",
-    "text": "2.1 O Que è?\nA Metodologia da Transitividade é uma proposta pedagógica, de forte inspiração freiriana, que visa conduzir o estudante da percepção imediata e ingênua de sua realidade para uma compreensão estrutural e crítica. A palavra “transitividade” refere-se exatamente a este movimento de transição cognitiva e social, no qual o indivíduo deixa de ser um mero espectador das contradições a seu redor e passa a investigá-las ativamente.\nSeus objetivos educacionais centrais incluem romper com a educação “bancária” (aquela que apenas deposita conteúdos no aluno), integrar o currículo escolar à vida real dos educandos e formar sujeitos capazes de analisar e intervir em sua realidade.",
+    "text": "2.1 O Que È?\nA Metodologia da Transitividade é uma proposta pedagógica, de forte inspiração freiriana, que visa conduzir o estudante da percepção imediata e ingênua de sua realidade para uma compreensão estrutural e crítica. A palavra “transitividade” refere-se exatamente a este movimento de transição cognitiva e social, no qual o indivíduo deixa de ser um mero espectador das contradições a seu redor e passa a investigá-las ativamente.\nSeus objetivos educacionais centrais incluem romper com a educação “bancária” (aquela que apenas deposita conteúdos no aluno), integrar o currículo escolar à vida real dos educandos e formar sujeitos capazes de analisar e intervir em sua realidade.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Metodologia da Transitividade</span>"
     ]
@@ -32,11 +42,51 @@
   {
     "objectID": "cap2.html",
     "href": "cap2.html",
-    "title": "3  Porque Trabalhar com Vídeos no Ensino Médio",
+    "title": "3  Porque Trabalhar com Vídeos(Ensino Médio)",
     "section": "",
     "text": "O uso de dispositivos móveis, especialmente o celular, é uma realidade inegável na cultura juvenil contemporânea. No entanto, o ambiente escolar frequentemente enxerga essa tecnologia apenas como uma distração ou, no máximo, como um recurso passivo para consumo de informações. Integrar as linguagens audiovisuais próprias das redes sociais ao fazer pedagógico é uma forma de disputar os sentidos e os usos dessas tecnologias.\nA proposta aqui apresentada não visa transformar a sala de aula em uma agência de criação de conteúdo. Pelo contrário, trata-se de utilizar a câmera do celular como uma “lente investigativa”. Ao propor que os estudantes produzam vídeos para as redes sociais, o professor exige deles processos complexos: observação atenta do espaço, seleção do que é relevante, elaboração de um roteiro argumentativo e expressão estética de uma ideia.\nAo registrar o cotidiano, o aluno é forçado a olhar para o que antes lhe parecia natural. A edição do vídeo se torna um exercício de análise social, onde a imagem codifica a realidade e a discussão em sala de aula descodifica suas contradições.\nNa prática, a produção de vídeos para redes sociais na escola não busca o entretenimento ou a viralização, mas sim o uso da linguagem audiovisual como ferramenta para investigar, problematizar a realidade concreta e construir autoria crítica entre os jovens.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Porque Trabalhar com Vídeos no **Ensino Médio**</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Porque Trabalhar com Vídeos(Ensino Médio)</span>"
+    ]
+  },
+  {
+    "objectID": "cap3.html",
+    "href": "cap3.html",
+    "title": "4  Etapas da Metodologia",
+    "section": "",
+    "text": "A aplicação da Metodologia da Transitividade ocorre de forma processual, estruturada em etapas lógicas que guiam os estudantes da observação à síntese crítica. Abaixo, detalhamos os nove passos essenciais para a condução do trabalho.\n\nOrganização Inicial;\nDiálogo com Alunos;\nDiálogo com a Realidade;\nA Investigação da Àrea de Estudo;\nCodificação das Experiências Sociais;\nDiálogos Codificados;\nRedução Temática;\nDesenvolvimento em Sala de Aula;\nApresentação dos Vídeos e Avaliação;",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Etapas da Metodologia</span>"
+    ]
+  },
+  {
+    "objectID": "cap4.html",
+    "href": "cap4.html",
+    "title": "5  Detalhamento das Etapas",
+    "section": "",
+    "text": "5.1 Organização Inicial\nObjetivo: O professor apresenta a proposta, explica que a atividade não é apenas “gravar um vídeo”, mas investigar a realidade e transformá-la em leitura crítica. Também organiza grupos, define prazos, conversa sobre uso responsável de imagem, ética digital e finalidade pedagógica da produção.\nO que os estudantes fazem: Compreendem a intencionalidade do trabalho formam suas equipes de investigação e começam a debater possíveis temas.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Detalhamento das Etapas</span>"
+    ]
+  },
+  {
+    "objectID": "cap4.html#diálogo-com-alunos",
+    "href": "cap4.html#diálogo-com-alunos",
+    "title": "5  Detalhamento das Etapas",
+    "section": "5.2 Diálogo com Alunos",
+    "text": "5.2 Diálogo com Alunos\nNesse momento inicial, o professor promove uma roda de conversa para ouvir os estudantes sobre questões que merecem ser discutidas. Inicia com perguntas, em vez de começar pelo conteúdo pronto, começa pela experiência vivida pelos alunos.\nEsse movimento aparece no documento como um momento de aproximação e escuta, em coerência com o processo educativo dialógico.\n\n5.2.1 Exemplos de Perguntas Problematizadoras:\n\nO que mais incomoda vocês na escola ou no bairro?\nQue situações todo mundo vê, mas quase ninguém discute?\nSe vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que seria?\nQue tipo de vídeo vocês consomem nas redes que prende atenção?\n\n\n\n5.2.2 Exemplo de Atividade em Sala de Aula\nCada aluno escreve em um post-it ou formulário:\n\nUm problema que observa;\nUma pergunta que gostaria de investigar;\nUma idéia de vídeo curto sobre esse problema.\n\n\n\n5.2.3 Produto esperado\n\nMapa de interesses da turma.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Detalhamento das Etapas</span>"
+    ]
+  },
+  {
+    "objectID": "cap4.html#diálogo-com-a-realidade",
+    "href": "cap4.html#diálogo-com-a-realidade",
+    "title": "5  Detalhamento das Etapas",
+    "section": "5.3 Diálogo com a Realidade",
+    "text": "5.3 Diálogo com a Realidade\nDialogar com os alunos sobre o olhar a realidade de forma mais atenta, saindo de opiniões genéricas e indo para observações concreta.\nO professor conduz uma atividade de leitura do espaço escolar ou do entorno. O importante aqui é deslocar o olhar: “o que vemos?”, “quem aparece?”, “quem não aparece?”, “que contradições existem?”. No documento, esse momento prepara os estudantes para observar criticamente seu contexto antes do registro audiovisual.\n\n5.3.1 Exemplos de perguntas problematizadoras:\n\nO que mais incomoda vocês na escola ou no bairro?\nQue situações todo mundo vê, mas quase ninguém discute?\nSe vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que seria?\nQue tipo de vídeo vocês consomem nas redes que prende atenção?\n\n\n\n5.3.2 Exemplo de Atividade Prática:\nSe o tema for lixo no entorno da escola, os alunos podem observar: - onde há mais lixo acumulado; - em que horários isso acontece; - se há lixeiras suficientes; - quem é responsabilizado pelo problema; - como os moradores ou estudantes percebem isso\n\n\n5.3.3 Sugestão de Recurso\n\nUse uma ficha simples de observação com três colunas: o que vimos? | por que isso acontece? | que pergunta isso gera?\n\n\n\n5.3.4 Produto Esperado\n\nRegistro de observações e primeiras hipóteses.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Detalhamento das Etapas</span>"
     ]
   }
 ]

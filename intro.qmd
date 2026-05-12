@@ -10,3 +10,33 @@ body{text-align: justify}
 ::::
 
 # Introdução
+
+A presença onipresente dos dispositivos móveis no cotidiano juvenil impõe à escola contemporânea um desafio incontornável: superar a visão higienista que criminaliza o uso de tecnologias para assumi-las como um território de disputa de sentidos. Conforme aponta **David Buckingham (2019)** em seus estudos sobre Mídia-Educação, a alfabetização midiática não deve se limitar a proteger os jovens contra os riscos da tecnologia, mas deve instrumentalizá-los para a apropriação crítica e criativa de suas linguagens. É nesse contexto que o uso do audiovisual no Ensino Médio deixa de ser encarado como mero entretenimento para assumir o papel de uma autêntica "lente investigativa".
+
+
+
+A força motriz para essa transformação pedagógica ancora-se na **Metodologia da Transitividade**. Em sua obra clássica *Educação como Prática da Liberdade* (1967), Paulo Freire define o alcance da "consciência transitiva" como o momento fundamental em que o sujeito rompe com a apreensão mágica ou ingênua de sua realidade. Ao desenvolver essa transitividade, o indivíduo passa a investigar causalidades, reconhecer contradições estruturais e intervir no mundo. Transpor essa teoria para a prática escolar é a via mais eficaz para combater a "educação bancária", colocando o estudante não como depositário de conteúdos, mas como investigador ativo do seu território.
+
+
+No ecossistema digital de hoje, essa investigação sociológica exige o engajamento com os "multiletramentos". A pesquisadora **Roxane Rojo (2012)** defende que o currículo escolar precisa urgentemente dialogar com os textos multissemióticos da cultura digital. Ao utilizar a câmera do celular para realizar a **codificação** de problemas sociais cotidianos, o estudante materializa a sua experiência vivida em recortes audiovisuais concretos.
+
+
+Contudo, o verdadeiro salto epistemológico não está na gravação em si, mas na etapa freiriana de **descodificação**. Em sintonia com as bases da Educomunicação propostas por **Joan Ferrés (2014)** que propõe a interação indissociável entre emoção, imagem e reflexão crítica, o material gravado bruto volta para a sala de aula para ser tensionado coletivamente. O rigoroso debate analítico sobre o que as imagens revelam e o que elas ocultam transforma a edição do vídeo em um profundo exercício de pesquisa social.
+
+
+O que se propõe aqui, portanto, é a práxis. Ao utilizar a linguagem ágil de vídeos curtos, o objetivo não é a viralização algorítmica, mas o desenvolvimento da autonomia discursiva do educando. A produção documental no ambiente escolar converte-se, fundamentalmente, em uma estratégia de letramento crítico e intervenção cultural na sociedade contemporânea.
+
+
+
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+
+
+
+
+
+

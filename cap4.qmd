@@ -1,0 +1,121 @@
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+  
+  
+  
+# Detalhamento das Etapas
+  
+## Organização Inicial
+
+Objetivo: O professor apresenta a proposta, explica que a atividade não é apenas “gravar um vídeo”, mas investigar a realidade e transformá-la em leitura crítica. Também organiza grupos, define prazos, conversa sobre uso responsável de imagem, ética digital e finalidade pedagógica da produção. 
+
+
+
+O que os estudantes fazem: Compreendem a intencionalidade do trabalho formam suas equipes de investigação e começam a debater possíveis temas.
+
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+  
+
+
+
+## Diálogo com Alunos
+  
+  
+Nesse momento inicial, o professor promove uma roda de conversa para ouvir os estudantes sobre questões que merecem ser discutidas. Inicia com perguntas, em vez de começar pelo conteúdo pronto, começa pela experiência vivida pelos alunos.
+
+  
+Esse movimento aparece no documento como um momento de aproximação e escuta, em coerência com o processo educativo dialógico. 
+
+  
+### Exemplos de Perguntas Problematizadoras:
+
+- O que mais incomoda vocês na escola ou no bairro?
+- Que situações todo mundo vê, mas quase ninguém discute?
+- Se vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que seria?
+- Que tipo de vídeo vocês consomem nas redes que prende atenção?
+  
+  
+  
+### Exemplo de Atividade em Sala de Aula
+
+Cada aluno escreve em um *post-it* ou formulário:
+
+- Um problema que observa;
+- Uma pergunta que gostaria de investigar;
+- Uma idéia de vídeo curto sobre esse problema.
+
+### Produto esperado
+
+- Mapa de interesses da turma.
+
+ 
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+  
+  
+  
+## Diálogo com a Realidade
+  
+Dialogar com os alunos sobre o olhar a realidade de forma mais atenta, saindo de opiniões genéricas e indo para observações concreta.
+
+
+O professor conduz uma atividade de leitura do espaço escolar ou do entorno. O importante aqui é deslocar o olhar: “o que vemos?”, “quem aparece?”, “quem não aparece?”, “que contradições existem?”. No documento, esse momento prepara os estudantes para observar criticamente seu contexto antes do registro audiovisual.
+
+### Exemplos de perguntas problematizadoras:
+
+- O que mais incomoda vocês na escola ou no bairro?
+- Que situações todo mundo vê, mas quase ninguém discute?
+- Se vocês pudessem denunciar, explicar ou conscientizar sobre algo em 1 minuto, o que seria?
+- Que tipo de vídeo vocês consomem nas redes que prende atenção?
+
+  
+### Exemplo de Atividade Prática:
+
+Se o tema for lixo no entorno da escola, os alunos podem observar:
+- onde há mais lixo acumulado;
+- em que horários isso acontece;
+- se há lixeiras suficientes;
+- quem é responsabilizado pelo problema;
+- como os moradores ou estudantes percebem isso
+
+  
+### Sugestão de Recurso
+
+- Use uma ficha simples de observação com três colunas:
+o que vimos? | por que isso acontece? | que pergunta isso gera?
+
+
+### Produto Esperado
+
+- Registro de observações e primeiras hipóteses.
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+  
