@@ -15,27 +15,28 @@ editor:
 :::
 ::::
 
-# Detalhamento das Etapas
+# Detlhamento das Etapas
 
 ## Organização Inicial
 
-**Objetivo**: Preparar a turma para a experiência, definir combinados e introduzir a proposta pedagógica do trabalho com vídeos.
+**Objetivo**: O professor apresenta a proposta, explica que a atividade
+não é apenas “gravar um vídeo”, mas investigar a realidade e
+transformá-la em leitura crítica. Também organiza grupos, define prazos,
+conversa sobre uso responsável de imagem, ética digital e finalidade
+pedagógica da produção.
 
-**O Que o Professor Faz**: Apresenta a estrutura do projeto, organiza os grupos, estipula o cronograma e discute o uso Ã©tico do celular e das imagens.
+**O Que os Estudantes Fazem**: Compreendem a intencionalidade do
+trabalho formam suas equipes de investigação e começam a debater
+possíveis temas.
 
-**O Que os Estudantes Fazem**: Compreendem a intencionalidade do trabalho e formam suas equipes de investigação.
-
-**Exemplo Prático**: Reunião inicial para alinhar que o foco será produzir minidocumentários sobre os desafios do bairro, e não vídeos de humor escolar.
-
+![](fig4.jpg){fig-align="center" width="135"}
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 ::::
 
-
-
-## Diálogo com Alunos
+## Diálogos Com os Alunos
 
 Nesse momento inicial, o professor promove uma roda de conversa para
 ouvir os estudantes sobre questões que merecem ser discutidas. Inicia
@@ -53,15 +54,15 @@ escuta, em coerência com o processo educativo dialógico.
     1 minuto, o que seria?
 -   Que tipo de vídeo vocês consomem nas redes que prende atenção?
 
-### Exemplo de Atividade em Sala de Aula
+### Exemplo de Atividade em Sala
 
-Cada aluno escreve em um *post-it* ou formulário:
+Cada aluno escreve em um post-it ou formulário:
 
--   Um problema que observa;
--   Uma pergunta que gostaria de investigar;
--   Uma idéia de vídeo curto sobre esse problema.
+1.  um problema que observa;
+2.  uma pergunta que gostaria de investigar;
+3.  uma ideia de vídeo curto sobre esse problema.
 
-### Produto esperado
+### Produto Esperado
 
 -   Mapa de interesses da turma.
 
@@ -70,18 +71,25 @@ Cada aluno escreve em um *post-it* ou formulário:
 :::
 ::::
 
-## Diálogo com a Realidade
+## Diálogos Com a Realidade
 
 Dialogar com os alunos sobre o olhar a realidade de forma mais atenta,
 saindo de opiniões genéricas e indo para observações concreta.
 
-O professor conduz uma atividade de leitura do espaço escolar ou do
-entorno. O importante aqui é deslocar o olhar: “o que vemos?”, “quem
-aparece?”, “quem não aparece?”, “que contradições existem?”. No
-documento, esse momento prepara os estudantes para observar criticamente
-seu contexto antes do registro audiovisual.
+![](fig1.jpg){fig-align="center" width="173"}
 
-### Perguntas Problematizadoras:
+O professor conduz uma atividade de leitura do espaço escolar ou do
+entorno. O importante aqui é deslocar o olhar:
+
+-   “o que vemos?”,
+-   “quem aparece?”,
+-   “quem não aparece?”,
+-   “que contradições existem?”.
+
+No documento, esse momento prepara os estudantes para observar
+criticamente seu contexto antes do registro audiovisual.
+
+### Exemplos de Perguntas Problematizadoras:
 
 -   O que mais incomoda vocês na escola ou no bairro?
 -   Que situações todo mundo vê, mas quase ninguém discute?
@@ -89,17 +97,22 @@ seu contexto antes do registro audiovisual.
     1 minuto, o que seria?
 -   Que tipo de vídeo vocês consomem nas redes que prende atenção?
 
-### Atividade Prática:
+### Exemplo de Atividade Prática:
 
-Se o tema for lixo no entorno da escola, os alunos podem observar: -
-onde há mais lixo acumulado; - em que horários isso acontece; - se há
-lixeiras suficientes; - quem é responsabilizado pelo problema; - como os
-moradores ou estudantes percebem isso
+Se o tema for lixo no entorno da escola, os alunos podem observar:
+
+-   onde há mais lixo acumulado;
+-   em que horários isso acontece;
+-   se há lixeiras suficientes;
+-   quem é responsabilizado pelo problema;
+-   como os moradores ou estudantes percebem isso
 
 ### Sugestão de Recurso
 
--   Use uma ficha simples de observação com três colunas: o que vimos?
-    \| por que isso acontece? \| que pergunta isso gera?
+-   Use uma ficha simples de observação com três colunas:
+-   o que vimos?
+-   por que isso acontece?
+-   que pergunta isso gera?
 
 ### Produto Esperado
 
@@ -110,7 +123,7 @@ moradores ou estudantes percebem isso
 :::
 ::::
 
-## Investigação da Àrea de Estudo
+## Investigação Da Área de Estudo
 
 É o momento de construir o levantamento preliminar do tema escolhido de
 modo mais sistemático.
@@ -122,28 +135,33 @@ temática, quando ocorre o levantamento preliminar da realidade estudada.
 Os estudantes definem o que querem descobrir, quem pretendem entrevistar
 e em quais espaços farão as filmagens.
 
-### Exemplo de Temática
+![](fig5.jpg){fig-align="center" width="178"}
+
+### Exemplo de Temática que pode surgir:
 
 “as dificuldades de mobilidade que os alunos enfrentam para chegar à
 escola”.
 
-### Atividades em Equipes
+### Atividades que as Equipes podem Realizar:
 
--   coletar as opiniões de colegas;
--   registrar a chegada dos alunos;
--   enquete sobre os riscos identificados no trajeto;
--   fazer fotos e vídoes das vias do bairro, das ciclovias, faixas de
+-   Coletar as opiniões de colegas;
+-   Registrar a chegada dos alunos;
+-   Enquete sobre os riscos identificados no trajeto;
+-   Fazer fotos e vídoes das vias do bairro, das ciclovias, faixas de
     pedestres, pontos de ônibus, etc;
--   filmar o trânsito no entorno da escola.
+-   Filmar o trânsito no entorno da escola.
 
-## Miniatividade Investigativa
+### Miniatividade Investigativa
 
 -   Qual é o problema?
 -   Onde ele aparece?
 -   Quem é afetado?
 -   Como ele costuma ser explicado?
--   O que ainda precisamos descobrir? Produto esperado Um dossiê inicial
-    do tema com anotações, fotos, falas e perguntas.
+-   O que ainda precisamos descobrir?
+
+### Produto Esperado
+
+-   Um dossiê inicial do tema com anotações, fotos, falas e perguntas
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -159,20 +177,22 @@ De acordo com a concepção freiriana, a codificação consiste em registrar
 aspectos da realidade para que depois eles possam ser analisados. Essa é
 a fase da captação de “retratos” da realidade.
 
-O professor com os alunos detalham as noções simples tais como: técnicas
-de enquadramento, plano aberto, médio e close, captação de áudio,
-iluminação, gravação na vertical ou na horizontal para
-Reels/TikTok/Shorts e autorização de imagem quando houver entrevistas
-gravadas.
+O professor com os alunos detalham as noções simples tais como:
 
-![](fig1.jpg){fig-align="center" width="295"}
+-   Técnicas de Enquadramento,
+-   Plano Aberto,
+-   Médio e Close,
+-   Captação de Áudio,
+-   Iluminação,
+-   Gravação na Vertical ou na horizontal para Reels/TikTok/Shorts
+-   Autorização de imagem quando houver entrevistas gravadas.
 
-### Exemplo de Temática
+### Exemplo de Temática que pode Surgir
 
 “as dificuldades de mobilidade que os alunos enfrentam para chegar à
 escola”.
 
-### Atividades em Equipes
+### Atividades que as Equipes podem Realizar
 
 -   coletar as opiniões de colegas;
 -   registrar a chegada dos alunos;
@@ -181,21 +201,252 @@ escola”.
     pedestres, pontos de ônibus, etc;
 -   filmar o trânsito no entorno da escola.
 
-### Exemplos de Gravações
+### Exemplos de Gravações que podem Realizar
 
 -   gravação de alunos nos pontos de ônibus;
--   gravação de alunos que vem de bicicletas pelas ciclofaixas; -
-    entrevistas curtas com estudantes;
+-   gravação de alunos que vem de bicicletas pelas ciclofaixas;\
+-   entrevistas curtas com estudantes;
 -   cenas de deslocamento de alunos pedestres;
 -   fala em off com dados ou reflexões.
 
-Modelo a ser utilizado poderia ser um vídeo denúncia em 45 segundos
+### Modelo a ser utilizado (vídeo denúncia em 45 seg)
 
--   abertura com pergunta forte;
--   cenas do problema;
--   fala de 2 colegas;
--   dado simples;
--   conclusão com proposta.
+1.  abertura com pergunta forte;
+2.  cenas do problema;
+3.  fala de 2 colegas;
+4.  dado simples;
+5.  conclusão com proposta.
+
+### Produto Esperado:
+
+-   Banco de imagens e vídeos do grupo.
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## Diálogos Descodificados
+
+É o momento no qual educandos e educadores vão interpretar criticamente
+o material.
+
+Esta é uma etapa decisiva. O professor exibe os registros e conduz a
+análise coletiva: o que o vídeo mostra? O que ele esconde? Que
+contradições aparecem? Que causas estruturais podem estar por trás? No
+documento, esta etapa é chamada de diálogos descodificadores e serve
+para sair da aparência e chegar à problematização crítica.
+
+### Perguntas de Descodificação
+
+-   O que aparece com mais força nas imagens?
+-   Que problema social está sendo revelado?
+-   Isso é um caso isolado ou algo recorrente?
+-   Quem ganha e quem perde com essa situação?
+-   Como a escola, a comunidade ou o poder público entram nisso?
+-   O vídeo reforça apenas questões comportamentais ou ajuda a pensar
+    como um problema coletivo?
+
+### Exemplo que podem ser Problematizados
+
+No caso se a codificação for os alunos no trânsito, pois a partir desse
+exemplo podem surgir outras temáticas
+
+-   os problemas enfrentados no trânsito são apenas de imprudência das
+    pessoas;
+-   registrar a chegada dos alunos;
+-   enquete sobre os riscos identificados no trajeto;
+-   fazer fotos e vídoes das vias do bairro, das ciclovias, faixas de
+    pedestres, pontos de ônibus, etc;
+-   filmar o trânsito no entorno da escola.
+
+### Produto Esperado
+
+-   Uma síntese crítica do tema em 5 a 8 frases
+
+::: {.callout-tip collapse="false"}
+"**EXEMPLO PRÁTICO:** Caso o tema fosse a “**Merenda Escolar**”. Após
+ver os registros codificados, a turma poderia discutir:
+
+-   O Problema é quantidade, qualidade ou organização?
+-   Os Estudantes só reclamam ou conseguem explicar melhor a questão?
+-   O Vídeo está culpando pessoas específicas ou analisando uma situação
+    maior?
+-   Como Apresentar o problema com responsabilidade?
+:::
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## Redução Temática
+
+A finalidade é recortar o foco central do vídeo para que ele fique
+claro, coerente e pedagógico.
+
+Depois da discussão, o professor ajuda os alunos a definir qual aspecto
+do problema será abordado. Nessa etapa de redução temática é o momento
+em que o tema investigado é delimitado para ganhar forma educativa.
+
+### Perguntas de Descodificação
+
+-   O que aparece com mais força nas imagens?
+-   Que problema social está sendo revelado?
+-   Isso é um caso isolado ou algo recorrente?
+-   Quem ganha e quem perde com essa situação?
+-   Como a escola, a comunidade ou o poder público entram nisso?
+-   O vídeo reforça apenas questões comportamentais ou ajuda a pensar
+    como um problema coletivo?
+
+### Exemplo de Temas
+
+“saúde mental na escola”, Recortes que poderiam ser possíveis nessa
+etapa:
+
+-   Pressão por Desempenho;
+-   Excesso de Tarefas;
+-   Falta de Escuta;
+-   Impacto das Redes Sociais;
+-   Comparação entre Colegas.
+
+::: {.callout-tip collapse="false"}
+**ATIVIDADE PRÁTICA**
+
+-   Cada grupo completa esta frase: “Nosso vídeo vai mostrar
+    que\_\_\_\_\_\_\_\_\_, porque observamos \_\_\_\_\_\_\_\_\_\_\_\_\_,
+    e queremos que o público reflita sobre\_\_\_\_\_\_\_\_\_\_\_.”
+
+-   **Produto Esperado**
+
+    -   Tema final com a mensagem central do vídeo.
+:::
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## Desenvolvimento Em Sala De Aula
+
+É a etapa de confecção do material didático, com a finalidade de
+roteirizar, editar e finalizar o vídeo.
+
+Essa etapa corresponde ao momento em que o material se transforma em
+produto didático. Essa etapa do desenvolvimento em sala surge com a
+confecção do material audiovisual final.
+
+### Exemplos de Estrutura/Roteiro para vídeo curto:
+
+1.  **Modelo 1** — Vídeo Explicativo
+
+-   Gancho inicial: “Você já percebeu que...?”
+-   Apresentação do problema.
+-   Imagens do cotidiano.
+-   Duas falas ou dados curtos.
+-   Análise crítica.
+
+2.**Modelo 2** — Minidocumentário Curto para Rede Social:
+
+-   Cena inicial de impacto.
+-   Narração breve.
+-   Entrevista curta.
+-   Contraste entre falas/imagens.
+
+### Exemplo para confeccionar em sala.
+
+-   Tema: “Lixo no Bairro”
+-   Roteiro em 60 segundos:
+    -   0–5s: imagem do problema e pergunta;
+    -   5–20s: cenas do entorno;
+    -   20–35s: fala de morador ou estudante;
+    -   35–50s: interpretação do grupo;
+    -   50–60s: proposta de reflexão/ação.
+
+::: {.callout-tip collapse="false"}
+"**ATIVIDADE PRÁTICA:**
+
+-   Sem depender de recursos complexos, os alunos podem usar editores
+    simples de celular para edição, cortar, colocar legenda, inserir
+    título, ajustar ordem das cenas, colocar trilha sem prejudicar a
+    compreensão da fala.
+
+-   **Produto Esperado**
+
+    -   Vídeo Finalizado.
+:::
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## Apresentação Dos Vídeos E Avaliação
+
+É o momento da apresentação para comentários e avaliação. A finalidade é
+socializar os vídeos, refletir sobre o processo e avaliar aprendizagens.
+
+Essa etapa corresponde a finalização do percurso com a apresentação dos
+vídeos e comentários sobre as experiências. Em sala, isso pode ser feito
+como mostra audiovisual, sessão comentada ou circuito de exibição.
+
+### Como Avaliar?
+
+A avaliação pode considerar:
+
+-   Coerência entre tema e vídeo;
+-   Qualidade da investigação;
+-   Capacidade de análise crítica;
+-   Clareza da mensagem;
+-   Organização do grupo;
+-   Uso ético e responsável da linguagem audiovisual.
+
+### Exemplo de Fechamento Reflexivo
+
+Cada equipe responde:
+
+-   O que aprendemos sobre o tema?
+-   O que aprendemos sobre fazer vídeo?
+-   Nossa produção só mostrou um problema ou ajudou a compreendê-lo?
+-   Se fôssemos publicar, que impacto gostaríamos de gerar?
+
+### **Produto Esperado**
+
+-   Exibição, Autoavaliação e Debate Final.
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## Sequência Didática De Aaulas
+
+Para facilitar a transposição da metodologia para o planejamento escolar
+cotidiano, estruturamos os passos detalhados no capítulo anterior em uma
+sequência didática direta, projetada para 8 aulas.
+
+| Aula | Etapa | Objetivo | Atividades | Recursos | Produto | Avaliação |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| 1 | Diálogos com os Alunos | Apresentação do Projeto | Roda de Coversa | Quadro, Cadernos, Fichas, Celular | Lista de Temas | Participação, Escuta, Ennvolvimento dos Temas |
+| 2 | Diálogos com a Realidade | Desenvolver a observação crítica da realidade | Caminhada pela escola, registros e fotos | Celular, caderno, Prancheta | Registro Inicial da Realidade | Capacidade de Observação, qualidade do registro |
+| 3 | A investigação da área de estudo | Organizar a investigação inicial do tema | Formação de Grupos | Ficha de planejamento, caderno, celular | Plano inicial de investigação por grupo | Clareza do foco, coerência das perguntas e organização do grupo |
+| 4 | Codificação das experiências sociais | Registrar, por meio de linguagem audiovisual | Captação de imagens, entrevistas curtas, depoimentos e cenas do cotidiano | Celulares com câmera, microfone simples se houver, autorização de imagem | Banco de imagens, falas e vídeos brutos | Qualidade do registro, adequação ao tema e |
+
+A sequência didática foi organizada em oito aulas, com base na
+Metodologia da Transitividade, articulando momentos de
+
+-   Escuta,
+-   Observação da Realidade,
+-   Investigação,
+-   Codificação Audiovisual,
+-   Diálogos Descodificadores,
+-   Redução Temática,
+-   Produção e Socialização dos Vídeos.
+
+O percurso visa promover a passagem de uma leitura imediata da realidade
+para uma compreensão crítica, utilizando a linguagem audiovisual e os
+formatos das redes sociais como instrumentos pedagógicos de autoria e
+reflexão
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}

@@ -11,7 +11,7 @@ body{text-align: justify}
 :::
 ::::
 
-# Apresentação {.unnumbered}
+# APRESENTAÇÃO {.unnumbered}
 
 O presente e-book tem como propósito organizar, em um formato didático e acessível, as informações teóricas e práticas sobre a aplicação da Metodologia da Transitividade no contexto do Ensino Médio. Esta obra é fruto da sistematização de práticas pedagógicas que buscam aproximar a escola da realidade dos estudantes, promovendo uma educação pautada no diálogo, na reflexão crítica e na práxis.
 
