@@ -19,19 +19,21 @@ editor:
 
 ## Organização Inicial
 
-Objetivo: O professor apresenta a proposta, explica que a atividade não
-é apenas “gravar um vídeo”, mas investigar a realidade e transformá-la
-em leitura crítica. Também organiza grupos, define prazos, conversa
-sobre uso responsável de imagem, ética digital e finalidade pedagógica
-da produção.
+**Objetivo**: Preparar a turma para a experiência, definir combinados e introduzir a proposta pedagógica do trabalho com vídeos.
 
-O que os estudantes fazem: Compreendem a intencionalidade do trabalho
-formam suas equipes de investigação e começam a debater possíveis temas.
+**O Que o Professor Faz**: Apresenta a estrutura do projeto, organiza os grupos, estipula o cronograma e discute o uso Ã©tico do celular e das imagens.
+
+**O Que os Estudantes Fazem**: Compreendem a intencionalidade do trabalho e formam suas equipes de investigação.
+
+**Exemplo Prático**: Reunião inicial para alinhar que o foco será produzir minidocumentários sobre os desafios do bairro, e não vídeos de humor escolar.
+
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 ::::
+
+
 
 ## Diálogo com Alunos
 
