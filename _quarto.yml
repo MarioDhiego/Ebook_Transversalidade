@@ -26,7 +26,7 @@ book:
   repo-branch: main                      # master
   repo-actions: [edit, issue, source]
   sharing: [twitter, linkedin]
-  downloads: [pdf, docx]
+  downloads: [pdf]
   page-navigation: TRUE
   reader-mode: TRUE
   sidebar:
