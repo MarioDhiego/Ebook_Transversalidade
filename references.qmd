@@ -1,4 +1,16 @@
-# References {.unnumbered}
+# Referências Bibliográficas {.unnumbered}
+
+
+
+Fonte: FREIRE, P. A Pedagogia do Oprimido, 2023. 
+
+FREIRE, P. Educação como Prática de Liberdade, 2025.
+
+Machado Filho, Francisco. Como fazer Documentários, 2024. 
+
+ALVES, G. O cinema como experiência crítica, 2010.
+
+
 
 ::: {#refs}
 :::
