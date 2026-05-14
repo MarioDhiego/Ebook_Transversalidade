@@ -414,6 +414,10 @@ Cada equipe responde:
 
 -   Exibição, Autoavaliação e Debate Final.
 
+#### Vídeo Documental
+
+![](images/whatsapp-video-2026-05-13-at-092529_0PFoxwab.mp4){fig-align="center"}
+
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
