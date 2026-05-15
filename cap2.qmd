@@ -1,17 +1,19 @@
-::: {.content-visible when-format="html"}
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 ::::
 
-:::
-
 # Porque Trabalhar Com Vídeos No Ensino Médio
 
 O uso de dispositivos móveis, especialmente o celular, é uma realidade inegável na cultura juvenil contemporânea. No entanto, o ambiente escolar frequentemente enxerga essa tecnologia apenas como distração ou, no máximo, como um recurso passivo para consumo de informações.
 
-![](fig13.jpg){fig-align="center" width="40%"}
+![](fig13.jpg){fig-align="center" width="23%"}
 
 A proposta aqui apresentada não visa transformar a sala de aula em uma agência de criação de conteúdo. Pelo contrário, trata-se de utilizar a câmera do celular como uma “lente investigativa”.
 
@@ -20,27 +22,10 @@ Ao propor que os estudantes produzam vídeos para as redes sociais, o professor 
 Ao registrar o cotidiano, o aluno é forçado a olhar para o que antes lhe parecia natural. A edição do vídeo se torna um exercício de análise social, em que a imagem codifica a realidade e a discussão em sala de aula descodifica suas contradições.
 
 ::: {.callout-tip collapse="false"}
-**NA PRÁTICA:** A produção de vídeos para redes sociais na escola não busca entretenimento ou viralização, mas o uso da linguagem audiovisual como ferramenta de investigação da realidade e construção de autoria crítica entre os jovens.
+"**NA PRÁTICA:** A produção de vídeos para redes sociais na escola não busca entretenimento ou viralização, mas o uso da linguagem audiovisual como ferramenta de investigação da realidade e construção de autoria crítica entre os "jovens".
 :::
-
-
-
-
-::: {.content-visible when-format="html"}
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 ::::
-
-:::
-
-
-
-
-
-
-
-
-
-

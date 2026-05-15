@@ -1,32 +1,36 @@
+# Preâmbulo Geral
 project:
   type: book
   output-dir: docs
+
 book:
-  title: "Metodologia da Transitividade Aplicada nas Escolas do Ensino Médio (E-book)"
-  subtitle: "Guia Prático Para Produção de Vídeos Documentais"
+  title: "**Metodologia da Transversalidade Aplicada nas Escolas do Ensino Médio (*E-book*)**"
+  subtitle: "**[Guia Prático Para Produção de Vídeos Documentais]**"
+  date: "08/21/2025"
   author:
-    - name: João Batista Figueiredo Veiga
-      orcid: 0000-0001-7262-3336
-      corresponding: true
-      affiliation:
-        name: Professor de Sociologia - SEDUC/PA
-      email: joao.veiga@detran.pa.gov.br
-  date: "2025-08-21"
-  cover-image: fig11.jpg
-  favicon: capa1.jpg
-  repo-url: https://github.com/Veiga1972
-  repo-subdir: book
-  repo-branch: main
-  repo-actions: [edit, issue, source]
-  sharing: [linkedin]
-  downloads: [pdf, docx]
-  page-navigation: true
-  reader-mode: true
-  sidebar:
-    search: true
+    name: João Batista Figueiredo Veiga
+    orcid: 0000-0001-7262-3336
+    corresponding: TRUE
+    affiliation:
+        name: Analista de Trânsito/DETRAN-PA
+        url: joao.veiga@detran.pa.gov.br
   page-footer:
-    left: "Was Written by (VEIGA, J.B.F - 2026)."
-    right: "SEDUC-PA."
+    left: |
+      Was Written by (**VEIGA, J.B.F - 2026**).
+    right: |
+      SEDUC-PA e DETRAN-PA.
+  cover-image: capa1.jpg
+  favicon: capa1.jpg
+  repo-url: https://github.com/MarioDhiego
+  repo-subdir: book
+  repo-branch: main                      # master
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, linkedin]
+  downloads: [pdf, docx]
+  page-navigation: TRUE
+  reader-mode: TRUE
+  sidebar:
+        search: TRUE
   chapters:
     - index.qmd
     - intro.qmd
@@ -37,25 +41,24 @@ book:
     - cap5.qmd
     - cap6.qmd
     - references.qmd
+
 bibliography: references.bib
 format:
   html:
-    toc-title: "SUMÁRIO"
+    toc-title: SUMÁRIO
     toc-location: right
-    number-sections: true
+    number-sections: TRUE
     theme:
       light: cosmo
-      dark: superhero
-    code-fold: true
-    code-tools: false
-    code-link: true
+      dark:  superhero
+    code-fold: TRUE
+    code-tools: FALSE
+    code-link: TRUE
   pdf:
     documentclass: scrreport
   epub:
     cover-image: cover.png
 abstract: ""
-
-
 
 
 

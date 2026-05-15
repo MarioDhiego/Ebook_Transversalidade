@@ -278,7 +278,7 @@ Possíveis recortes:
 
 Cada grupo completa a frase:
 
-> “Nosso vídeo vai mostrar que \_\_\_\_\_\_\_\_\_\_, porque observamos \_\_\_\_\_\_\_\_\_\_, e queremos que o público reflita sobre \_\_\_\_\_\_\_\_\_\_.”
+-   “Nosso vídeo vai mostrar que \_\_\_\_\_\_\_\_\_\_, porque observamos \_\_\_\_\_\_\_\_\_\_, e queremos que o público reflita sobre \_\_\_\_\_\_\_\_\_\_.”
 
 ### Produto Esperado
 
@@ -343,12 +343,7 @@ Sem depender de recursos complexos, os alunos podem utilizar editores simples de
 -   Vídeo finalizado.
 :::
 
-::::: {.content-visible when-format="html"}
-:::: progress
-::: {.progress-bar style="width: 100%;"}
-:::
-::::
-:::::
+
 
 ## Apresentação dos Vídeos e Avaliação
 
@@ -378,14 +373,7 @@ Cada equipe responde:
 
 ### Produto Esperado
 
-- Exibição, autoavaliação e debate final.
-
-
-### Vídeo Documental
-
-![](images/whatsapp-video-2026-05-13-at-092529_0PFoxwab-03.mp4){fig-align="center"}
-
-
+-   Exibição, autoavaliação e debate final.
 
 
 
@@ -395,3 +383,4 @@ Cada equipe responde:
 :::
 ::::
 :::::
+
